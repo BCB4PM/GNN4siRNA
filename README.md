@@ -1,7 +1,7 @@
 # GNN4siRNA
 GNN approach to face with the problem of siRNA-mRNA efficacy prediction.
 
-This repository provides the source code for "insert the paper's title".
+This repository provides the source code for "A graph neural network approach for the analysis of siRNA-target biological networks".
 
 - The "**data**" Folder contains both "raw" and "processed" data. We reported three siRNA-mRNA interaction network datasets from 702 to 3518 interactions.
 
